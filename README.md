@@ -1,5 +1,5 @@
 # u19-basketball-social-media-analytics
-# 🏀 U-19 Girls Basketball League 2083 — Social Media & Campaign Engagement Tracker
+🏀 U-19 Girls Basketball League 2083 — Social Media & Campaign Engagement Tracker
 
 🔗 **[View Live Interactive Dashboard in Google Sheets](https://docs.google.com/spreadsheets/d/1f9qqUp-j7jl7vvMUkxxpXiA_IRO9Uy-lgoGt30Y2rPg/edit?usp=sharing)**
 
